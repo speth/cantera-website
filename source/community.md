@@ -132,6 +132,7 @@ happy to help, if you do not know how to get started.
 News <news-index>
 Getting Involved <getting-involved>
 Citing Cantera <citations>
+Consulting Services <consulting>
 Affiliated Packages <affiliated>
 Governance <governance>
 Dave Goodwin <dave-goodwin>

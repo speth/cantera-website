@@ -140,7 +140,7 @@ data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width:100%;"
 ::::{grid} 2
 :::{grid-item}
 :columns: 9
-The <a href="https://groups.google.com/g/cantera-users">Cantera Users’ Group</a> on Google Groups is the forum where most Cantera users have their questions asked and answered. If you need help using Cantera and cannot find an answer in the tutorials or documentation at Cantera's website, consider joining and asking a question there. Find more information in our <a href="/community.html#the-cantera-users-group">Community section</a>.
+The <a href="https://groups.google.com/g/cantera-users">Cantera Users’ Group</a> on Google Groups is the forum where most Cantera users have their questions asked and answered. If you need help using Cantera and cannot find an answer in the tutorials or documentation, consider joining and asking a question there. Find more information in our <a href="/community.html#the-cantera-users-group">Community section</a>. For greater or more individualized needs, <a href="/consulting.html">professional services</a> are also available.
 :::
 :::{grid-item}
 :columns: 3
